@@ -1,7 +1,7 @@
 public class Task5 {
     public static void main(String[] args) {
         PassengerCar passengerCar = new PassengerCar("Peugout", 220, 5.4, 100, 5, "середній рівень");
-        Truck truck = new Truck("MAN", 150, 3.2, 500, 7, "високий рівень");
+        Truck truck = new Truck("MAN", 150, 11.2, 500, 2, "високий рівень");
 
         Car[] carPark = new Car[2];
         carPark[0] = passengerCar;
