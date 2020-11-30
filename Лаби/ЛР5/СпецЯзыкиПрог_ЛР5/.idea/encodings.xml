@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/LW5/CloseableLW5.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Exception1LW5.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Exception2LW5.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Exception3LW5.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/LW5/Task1.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Task2.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Task3.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Task4.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Task5.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/LW5/Task6.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/lab5/App.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/lab5/MyCloseable.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/lab5/MyException1.java" charset="windows-1251" />

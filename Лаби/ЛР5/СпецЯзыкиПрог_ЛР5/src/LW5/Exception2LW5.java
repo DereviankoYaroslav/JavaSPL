@@ -1,4 +1,4 @@
-package lab5;
+package LW5;
 
-public class MyException2 extends Exception {
+public class Exception2LW5 extends Exception {
 }
